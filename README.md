@@ -5,3 +5,5 @@ This is a simple Bookstore desktop application developed in python implementing 
 Programming Language used: Python,
 Libraries used : Tkinter for GUI,
 Database : SQL
+
+Execute the frontend.exe inside "build" folder
